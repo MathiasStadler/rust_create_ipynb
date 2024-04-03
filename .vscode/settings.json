@@ -5,7 +5,10 @@
         "nbconvert",
         "nbextensions",
         "nbformat",
+        "texlive",
         "traitlets",
-        "venv"
+        "venv",
+        "xedf",
+        "xetex"
     ]
 }
