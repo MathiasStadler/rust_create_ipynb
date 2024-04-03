@@ -3,7 +3,9 @@
         "ipynb",
         "kernelspec",
         "nbconvert",
+        "nbextensions",
         "nbformat",
+        "traitlets",
         "venv"
     ]
 }
